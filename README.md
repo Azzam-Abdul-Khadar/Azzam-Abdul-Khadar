@@ -35,7 +35,7 @@ I’m a **Full Stack Developer** with hands-on experience building scalable web 
 - JavaScript, Java, Dart
 
 **Frontend**
-- React.js, Next.js, Vite
+- React.js, Next.js, Vite.js
 - HTML, CSS, Tailwind CSS, Bootstrap, Ant Design
 
 **Backend & APIs**
