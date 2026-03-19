@@ -6,9 +6,6 @@
   <a href="https://linkedin.com/in/azzam-abdul-khadar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/official__azzam/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-  </a>
   <a href="https://stackoverflow.com/users/31556995" target="_blank">
     <img src="https://img.shields.io/badge/Stack%20Overflow-000?style=for-the-badge&logo=stackoverflow&logoColor=F58025"/>
   </a>
